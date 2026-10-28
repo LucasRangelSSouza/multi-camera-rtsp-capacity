@@ -1,0 +1,5 @@
+| streams | ready | open_s | processed_frames | secs | fps_per_stream_inferred | batch_p50_ms | batch_p95_ms | decoded_not_inferred | cpu_pct_mean | kind | feed | share_of_target | valid |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 64 | 64 | 114 | 11156 | 40.1 | 4.35 | 91.5 | 153.6 | 83247 | 16.7 | batch | sub | 0.87 | False |
+| 32 | 32 | 53.5 | 6272 | 40 | 4.9 | 77.7 | 106.6 | 24614 | 38.7 | batch | main | 0.98 | True |
+| 64 | 64 | 107 | 4544 | 40.1 | 1.77 | 149.7 | 876.9 | 83639 | 49.1 | batch | main | 0.354 | False |

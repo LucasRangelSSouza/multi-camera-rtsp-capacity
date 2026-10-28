@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Multi-camera RTSP capacity"
+authors:
+  - family-names: Rangel
+    given-names: Lucas
+type: software
+date-released: 2026-10-28
+repository-code: "https://github.com/LucasRangelSSouza/multi-camera-rtsp-capacity"

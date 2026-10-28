@@ -1,0 +1,5 @@
+parallel,frames_total,secs,decode_fps_total,streams_equiv_at_input_fps
+8,32360,32.3,1003.1,66.9
+16,64720,62.6,1034.7,69.0
+32,129440,125.0,1035.2,69.0
+64,258880,105.4,2456.0,163.7

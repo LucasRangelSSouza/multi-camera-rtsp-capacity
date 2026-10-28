@@ -1,0 +1,16 @@
+{
+ "batch_main_32_batch_p50_ms": 77.7,
+ "batch_main_32_share": 0.9800000000000001,
+ "batch_main_64_share": 0.354,
+ "batch_sub_64_share": 0.8699999999999999,
+ "cpu_pct_batch_main_32": 38.7,
+ "cpu_pct_proc_32": 42.5,
+ "max_cameras_batch_main": 32,
+ "max_cameras_batch_sub_tested": 0,
+ "max_cameras_process_per_camera": 32,
+ "nvdec_ceiling_fps": 1035.2,
+ "nvdec_ceiling_streams_at_15fps": 69.0,
+ "proc_32_fps_min": 5.04,
+ "proc_48_workers_ok": 1,
+ "proc_64_workers_ok": 39
+}
